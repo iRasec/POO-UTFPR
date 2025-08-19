@@ -25,11 +25,13 @@ A disciplina tem como foco introduzir e aprofundar os conceitos fundamentais da 
 
 ✅ Boas práticas de programação
 
+```bash
 📦 poo-utfpr
- ┣ 📁 exemplos       # Códigos apresentados em aula
- ┣ 📁 exercicios     # Exercícios resolvidos
- ┣ 📁 trabalhos      # Projetos e trabalhos práticos
+ ┣ 📂 exemplos       # Códigos apresentados em aula
+ ┣ 📂 exercicios     # Exercícios resolvidos
+ ┣ 📂 trabalhos      # Projetos e trabalhos práticos
  ┣ 📄 README.md      # Este arquivo
+```
 
 🚀 Tecnologias Utilizadas
 
@@ -44,16 +46,16 @@ Controle de versão: Git & GitHub
 📝 Como Utilizar
 
 Clone este repositório:
-
+```
 git clone https://github.com/seu-usuario/poo-utfpr.git
-
+```
 
 Entre na pasta do projeto desejado.
 
 Execute o comando:
-
+```
 dotnet run
-
+```
 
 Explore os exemplos, exercícios e trabalhos.
 
