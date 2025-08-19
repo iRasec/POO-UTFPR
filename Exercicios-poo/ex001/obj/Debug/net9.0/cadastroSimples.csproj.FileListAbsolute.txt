@@ -1,0 +1,14 @@
+C:\Users\luanc\POO\Exercicios-poo\cadastroSimples\bin\Debug\net9.0\cadastroSimples.exe
+C:\Users\luanc\POO\Exercicios-poo\cadastroSimples\bin\Debug\net9.0\cadastroSimples.deps.json
+C:\Users\luanc\POO\Exercicios-poo\cadastroSimples\bin\Debug\net9.0\cadastroSimples.runtimeconfig.json
+C:\Users\luanc\POO\Exercicios-poo\cadastroSimples\bin\Debug\net9.0\cadastroSimples.dll
+C:\Users\luanc\POO\Exercicios-poo\cadastroSimples\bin\Debug\net9.0\cadastroSimples.pdb
+C:\Users\luanc\POO\Exercicios-poo\cadastroSimples\obj\Debug\net9.0\cadastroSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanc\POO\Exercicios-poo\cadastroSimples\obj\Debug\net9.0\cadastroSimples.AssemblyInfoInputs.cache
+C:\Users\luanc\POO\Exercicios-poo\cadastroSimples\obj\Debug\net9.0\cadastroSimples.AssemblyInfo.cs
+C:\Users\luanc\POO\Exercicios-poo\cadastroSimples\obj\Debug\net9.0\cadastroSimples.csproj.CoreCompileInputs.cache
+C:\Users\luanc\POO\Exercicios-poo\cadastroSimples\obj\Debug\net9.0\cadastroSimples.dll
+C:\Users\luanc\POO\Exercicios-poo\cadastroSimples\obj\Debug\net9.0\refint\cadastroSimples.dll
+C:\Users\luanc\POO\Exercicios-poo\cadastroSimples\obj\Debug\net9.0\cadastroSimples.pdb
+C:\Users\luanc\POO\Exercicios-poo\cadastroSimples\obj\Debug\net9.0\cadastroSimples.genruntimeconfig.cache
+C:\Users\luanc\POO\Exercicios-poo\cadastroSimples\obj\Debug\net9.0\ref\cadastroSimples.dll

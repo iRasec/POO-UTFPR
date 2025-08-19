@@ -1,0 +1,4 @@
+C:\Users\luanc\POO\Exercicios-poo\aula_001exerc\obj\Debug\net9.0\aula_001exerc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanc\POO\Exercicios-poo\aula_001exerc\obj\Debug\net9.0\aula_001exerc.AssemblyInfoInputs.cache
+C:\Users\luanc\POO\Exercicios-poo\aula_001exerc\obj\Debug\net9.0\aula_001exerc.AssemblyInfo.cs
+C:\Users\luanc\POO\Exercicios-poo\aula_001exerc\obj\Debug\net9.0\aula_001exerc.csproj.CoreCompileInputs.cache

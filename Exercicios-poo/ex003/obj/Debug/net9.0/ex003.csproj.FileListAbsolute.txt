@@ -1,0 +1,14 @@
+C:\Users\luanc\POO\Exercicios-poo\ex003\obj\Debug\net9.0\ex003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanc\POO\Exercicios-poo\ex003\obj\Debug\net9.0\ex003.AssemblyInfoInputs.cache
+C:\Users\luanc\POO\Exercicios-poo\ex003\obj\Debug\net9.0\ex003.AssemblyInfo.cs
+C:\Users\luanc\POO\Exercicios-poo\ex003\obj\Debug\net9.0\ex003.csproj.CoreCompileInputs.cache
+C:\Users\luanc\POO\Exercicios-poo\ex003\bin\Debug\net9.0\ex003.exe
+C:\Users\luanc\POO\Exercicios-poo\ex003\bin\Debug\net9.0\ex003.deps.json
+C:\Users\luanc\POO\Exercicios-poo\ex003\bin\Debug\net9.0\ex003.runtimeconfig.json
+C:\Users\luanc\POO\Exercicios-poo\ex003\bin\Debug\net9.0\ex003.dll
+C:\Users\luanc\POO\Exercicios-poo\ex003\bin\Debug\net9.0\ex003.pdb
+C:\Users\luanc\POO\Exercicios-poo\ex003\obj\Debug\net9.0\ex003.dll
+C:\Users\luanc\POO\Exercicios-poo\ex003\obj\Debug\net9.0\refint\ex003.dll
+C:\Users\luanc\POO\Exercicios-poo\ex003\obj\Debug\net9.0\ex003.pdb
+C:\Users\luanc\POO\Exercicios-poo\ex003\obj\Debug\net9.0\ex003.genruntimeconfig.cache
+C:\Users\luanc\POO\Exercicios-poo\ex003\obj\Debug\net9.0\ref\ex003.dll
