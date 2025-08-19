@@ -25,7 +25,6 @@ A disciplina tem como foco introduzir e aprofundar os conceitos fundamentais da 
 
 ✅ Boas práticas de programação
 
-📂 Estrutura do Repositório
 📦 poo-utfpr
  ┣ 📁 exemplos       # Códigos apresentados em aula
  ┣ 📁 exercicios     # Exercícios resolvidos
